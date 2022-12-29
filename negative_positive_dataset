@@ -1,0 +1,304 @@
+sentence,label
+This dress is beautiful,1
+This dress is excellent,1
+This place is beautiful,1
+I love this shirt,1
+I like this shirt,1
+This dress is adorable,1
+Perfect dress for hot,1
+The dress is good,1
+Excellent food,1
+Food is awesome,1
+Food tastes good,1
+I love this restaurant,1
+I am happy,1
+everyone is happy,1
+customer likes this,1
+customer likes the product,1
+customer is happy,1
+restaturant serves good food,1
+restaturant is good,1
+Good work,1
+Excellent work,1
+Outstanding work,1
+I like the product,1
+I like chocolate,1
+I like pudding,1
+I like fruits,1
+I like chicken,1
+I like the music,1
+I love the music,1
+I like the movie,1
+I like the concert,1
+I like the cat,1
+I love the product,1
+I love chocolate,1
+I love pudding,1
+I love fruits,1
+I love chicken,1
+I love the music,1
+I love the movie,1
+I love the concert,1
+I love cat,1
+I gave good rating,1
+I gave Excellent rating,1
+Customer gave good rating,1
+Customer gave Excellent rating,1
+John gave good rating,1
+John gave Excellent rating,1
+The customer gave good rating,1
+The customer gave Excellent rating,1
+The cat likes the food,1
+The cat loves the food,1
+The pet likes the food,1
+The pet loves the food,1
+John likes thes product,1
+John likes chocolate,1
+John likes pudding,1
+John likes fruits,1
+John likes chicken,1
+John likes the music,1
+John loves the music,1
+John likes the movie,1
+John likes the concert,1
+John likes the cat,1
+John loves the product,1
+John loves chocolate,1
+John loves pudding,1
+John loves fruits,1
+John loves chicken,1
+John loves the music,1
+John loves the movie,1
+John loves the concert,1
+John loves cat,1
+John is good,1
+John is excellent,1
+John is outstanding,1
+Harry likes thes product,1
+Harry likes chocolate,1
+Harry likes pudding,1
+Harry likes fruits,1
+Harry likes chicken,1
+Harry likes the music,1
+Harry loves the music,1
+Harry likes the movie,1
+Harry likes the concert,1
+Harry likes the cat,1
+Harry loves the product,1
+Harry loves chocolate,1
+Harry loves pudding,1
+Harry loves fruits,1
+Harry loves chicken,1
+Harry loves the music,1
+Harry loves the movie,1
+Harry loves the concert,1
+Harry loves cat,1
+Harry is good,1
+Harry is excellent,1
+Harry is outstanding,1
+Excellent music,1
+Excellent movie,1
+everyone likes the food,1
+everyone likes the weather,1
+everyone likes the cat,1
+everyone likes the movie,1
+cat likes the food,1
+cat is happy,1
+Outstanding work,1
+Outstanding product,1
+The movie is fantastic,1
+The food is tasty,1
+The food smells good,1
+cat is beautiful,1
+I love shopping,1
+I like shopping,1
+I love shopping,1
+This dress is not beautiful,1
+Oustanding movie,1
+Good Movie,1
+Outstanding concert,1
+I like pet,1
+I like the cat,1
+I enjoy this,1
+He is a good cook,1
+He is good man,1
+Service is good,1
+Service is outstanding,1
+Weather is good,1
+I enjoyed the weather,1
+I like the weather,1
+I love the weather,1
+I enjoyed the food,1
+I enjoyed the movie,1
+The restaturant is not good,1
+Outstanding service in restaurant,1
+Excellent service in restaurant,1
+everyone likes the concert,1
+Outstanding service,1
+I like taste of food,1
+The product is awesome,1
+Excellent customer service,1
+Outstanding service in restaurant,1
+Excellent weather,1
+Quality of service is good,1
+Quality of service is excellent,1
+Quality of movie is good,1
+Quality of movie is excellent,1
+Quality of movie is outstanding,1
+Quality of product is good,1
+Quality of product is excellent,1
+The customer likes the food,1
+The customer likes the restaurant,1
+perfect restaurant for good,1
+I hate this shirt,0
+I do not like this shirt,0
+I do not like this restaurant,0
+I hate this restaurant,0
+The place is not good,0
+The place is bad,0
+I am sad,0
+everyone is sad,0
+I am not happy,0
+This is boring,0
+Movie is boring,0
+customer hates this,0
+I donot enjoy this,0
+food is not tasty,0
+everyone is not happy,0
+I donot enjoy the food,0
+I donot like fruits,0
+I donot like chicken,0
+I donot like the music,0
+I donot like the movie,0
+I donot like chocolate,0
+I donot love shopping,0
+cat is not beautiful,0
+I do not like pet,0
+The movie is aweful,0
+I hate the movie,0
+I do not like the concert,0
+Poor concert,0
+The food smells bad,0
+He is not a good cook,0
+I donot like pudding,0
+He is not good man,0
+Quality of service is bad,0
+Quality of service is poor,0
+Quality of product is bad,0
+Quality of product is poor,0
+Quality of product is not good,0
+Service is bad,0
+Service is poor,0
+I donot like the product,0
+Food tastes bad,0
+Weather is bad,0
+I donot like the weather,0
+I donot love the weather,0
+Bad work,0
+Poor work,0
+Not good work,0
+Bad movie,0
+Poor movie,0
+Poor service in restaurant,0
+Aweful service in restaturant,0
+I hate the cat,0
+Poor product,0
+I hate the music,0
+cat hates the food,0
+cat is sad,0
+I donot enjoy the movie,0
+everyone hates the food,0
+The dress is bad,0
+customer is not happy,0
+I donot enjoy the weather,0
+Poor service,0
+everyone do not like the weather,0
+everyone do not like the cat,0
+everyone do not like the movie,0
+everyone do not like the concert,0
+customer do not like the product,0
+customer do not like the service,0
+customer do not like the food,0
+The customer does not like the restaurant,0
+cat donot like the pudding,0
+Everyone donot like chicken,0
+I donot like taste of food,0
+I donot like shopping,0
+The product is aweful,0
+I donot love shopping,0
+Aweful customer service,0
+I donot love the product,0
+I donot love chocolate,0
+I donot love pudding,0
+I donot love fruits,0
+I donot love chicken,0
+I donot love the music,0
+I donot love the music,0
+I donot love the movie,0
+I donot love the concert,0
+Aweful food,0
+Aweful music,0
+Aweful movie,0
+Aweful weather,0
+This dress is awesome,0
+I donot like cat,0
+I donot love cat,0
+John does not like thes product,0
+John does not like chocolate,0
+John does not like pudding,0
+John does not like fruits,0
+John does not like chicken,0
+John does not like the music,0
+John does not like the music,0
+John does not like the movie,0
+John does not like the concert,0
+John does not like the cat,0
+John does not like the product,0
+John does not like chocolate,0
+John does not like pudding,0
+John does not like fruits,0
+John does not like chicken,0
+John does not like the music,0
+John does not like the movie,0
+John does not like the concert,0
+John does not like cat,0
+John is a excellent coder,1
+Harry does not like thes product,0
+Harry does not like chocolate,0
+Harry does not like pudding,0
+Harry does not like fruits,0
+Harry does not like chicken,0
+Harry does not like the music,0
+Harry does not like the music,0
+Harry does not like the movie,0
+Harry does not like the concert,0
+Harry does not like the cat,0
+Harry does not like the product,0
+Harry does not like chocolate,0
+Harry does not like pudding,0
+Harry does not like fruits,0
+Harry does not like chicken,0
+Harry does not like the music,0
+Harry does not like the movie,0
+Harry does not like the concert,0
+Harry does not like cat,0
+The cat does not like food,0
+The cat does not love food,0
+The pet does not like the food,0
+The pet does notlove the food,0
+I gave bad rating,0
+I gave poor rating,0
+Customer gave bad rating,0
+Customer gave poor rating,0
+John gave bad rating,0
+John gave poor rating,0
+The customer gave bad rating,0
+The customer gave poor rating,0
+John is bad,0
+John is not good,0
+John is poor,0
+Quality of movie is not good,0
+Quality of movie is bad,0
+Quality of movie is poor,0
+Pathetic experience in the restaurant,0
+John is a pathetic coder,0
